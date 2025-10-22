@@ -65,6 +65,7 @@ A report listing phishing indicators found in the sample email.
 
 
 **Email Body Preview:**
+
 ![image alt](https://github.com/Rushikesh38-bit/TASK-NO-2-Phishing-Analysis-Investigating-a-Phishing-Email/blob/main/4_email_body_preview.png)
 
 ## ✅ Learning Outcome
