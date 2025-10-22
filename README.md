@@ -1,1 +1,3 @@
-# TASK-NO-2-Phishing-Analysis-Investigating-a-Phishing-Email
+# Add links to online header analyzers, phishing guides, etc.
+# Example:
+# MXToolbox: https://mxtoolbox.com/EmailHeaders.aspx
