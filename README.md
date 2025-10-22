@@ -49,18 +49,18 @@ A report listing phishing indicators found in the sample email.
    List and summarize all phishing indicators you find.
 
 
-## 📸 Screenshot
+## 📸 Screenshots
 
-**Header Details**
+**Header Details:**
 ![image alt](https://github.com/Rushikesh38-bit/TASK-NO-2-Phishing-Analysis-Investigating-a-Phishing-Email/blob/main/1_header_details.png)
 
-**Ip Reputation**
+**Ip Reputation:**
 ![image alt](https://github.com/Rushikesh38-bit/TASK-NO-2-Phishing-Analysis-Investigating-a-Phishing-Email/blob/main/2_reputation.png)
 
-**Suspicious Link**
+**Suspicious Link:**
 ![image alt](https://github.com/Rushikesh38-bit/TASK-NO-2-Phishing-Analysis-Investigating-a-Phishing-Email/blob/main/3_suspicious_link.png)
 
-**Email Body Preview**
+**Email Body Preview:**
 ![image alt](https://github.com/Rushikesh38-bit/TASK-NO-2-Phishing-Analysis-Investigating-a-Phishing-Email/blob/main/4_email_body_preview.png)
 
 
