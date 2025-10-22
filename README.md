@@ -39,27 +39,6 @@ A report listing phishing indicators found in the sample email.
 8. **Summary:**  
    List and summarize all phishing indicators you find.
 
-## Repository Structure
-
-```
-analysis/         # Email samples and scripts
-screenshots/      # Images of headers, links, email body, etc.
-report.md         # Your analysis and findings
-resources/        # Helpful references and tools
-```
-
-## Setup Instructions
-
-1. **Clone the repository:**
-    ```bash
-    git clone https://github.com/Rushikesh38-bit/phishing-analysis-task2.git
-    cd phishing-analysis-task2
-    ```
-
-2. **Prepare your environment:**
-    - Save suspicious email samples in the `analysis/` folder.
-    - Store screenshots in `screenshots/`.
-    - Write your findings in `report.md`.
 
 ## Example Screenshot
 
@@ -68,8 +47,14 @@ resources/        # Helpful references and tools
 ## Author
 Rushikesh38-bit
 
-## License
-MIT
+## Learning Outcome
+
+By completing this lab, I was able to:
+- Extract and review email headers for spoofing and IP trace
+- Detect suspicious sending domains and malformed headers
+- Identify spoofed branding and urgency in email body
+- Use online tools to validate IP/domain reputation and catch phishing attempts
+
 
 ## References
 - [MXToolbox Email Header Analyzer](https://mxtoolbox.com/EmailHeaders.aspx)
