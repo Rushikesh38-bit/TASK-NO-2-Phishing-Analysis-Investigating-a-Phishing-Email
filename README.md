@@ -22,6 +22,7 @@ Identify phishing characteristics in a suspicious email sample.
 ## Deliverables
 A report listing phishing indicators found in the sample email.
 
+
 ## 📝 Mini Guide
 
 1. **Obtain a Sample:**  
@@ -54,15 +55,17 @@ A report listing phishing indicators found in the sample email.
 **Header Details:**
 ![image alt](https://github.com/Rushikesh38-bit/TASK-NO-2-Phishing-Analysis-Investigating-a-Phishing-Email/blob/main/1_header_details.png)
 
+
 **Ip Reputation:**
 ![image alt](https://github.com/Rushikesh38-bit/TASK-NO-2-Phishing-Analysis-Investigating-a-Phishing-Email/blob/main/2_reputation.png)
+
 
 **Suspicious Link:**
 ![image alt](https://github.com/Rushikesh38-bit/TASK-NO-2-Phishing-Analysis-Investigating-a-Phishing-Email/blob/main/3_suspicious_link.png)
 
+
 **Email Body Preview:**
 ![image alt](https://github.com/Rushikesh38-bit/TASK-NO-2-Phishing-Analysis-Investigating-a-Phishing-Email/blob/main/4_email_body_preview.png)
-
 
 ## ✅ Learning Outcome
 
