@@ -8,7 +8,7 @@ Identify phishing characteristics in a suspicious email sample.
 
 ## Tools Needed
 - Email client or saved email file (plain text)
-- Free online header analyzer (e.g., [MXToolbox](https://mxtoolbox.com/EmailHeaders.aspx))
+- Free online header analyzer (e.g., [MXToolbox](https://mxtoolbox.com/EmailHeaders.aspx),[VirusTotal](https://www.virustotal.com/gui/home/upload),[EML Analyzer](https://eml-analyzer.herokuapp.com/#/))
 
 ## Deliverables
 A report listing phishing indicators found in the sample email.
