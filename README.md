@@ -9,7 +9,7 @@ Identify phishing characteristics in a suspicious email sample.
 
 ## 🧪 Lab Setup
 
-- 📨 [Download Email Sample (.eml)](https://github.com/0xrajneesh/30-Days-SOC-Challenge-Beginner/blob/main/BRADESCO%20LIVELO.eml)  
+- 📨 [Download Email Sample (.eml)](https://github.com/Rushikesh38-bit/TASK-NO-2-Phishing-Analysis-Investigating-a-Phishing-Email/blob/main/BRADESCO%20LIVELO.eml)  
 - 💻 Tools Used:
   - [MX Toolbox Email Header Analyzer](https://mxtoolbox.com/EmailHeaders.aspx)
   - [EML Analyzer](https://eml-analyzer.herokuapp.com/#/)
