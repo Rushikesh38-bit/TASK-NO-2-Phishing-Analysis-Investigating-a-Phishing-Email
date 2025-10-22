@@ -1,15 +1,16 @@
-# Task N0 2- Phishing Analysis: Investigating a Phishing Email
+# 🛡️ Task N0 2- Phishing Analysis: Investigating a Phishing Email
 
-## Overview
+## 🔍 Overview
 Analyze a suspicious email to identify phishing characteristics and document your findings. This lab enhances awareness of phishing tactics and email threat analysis skills.
 
-## Objective
+## 🎯 Objective
 Identify phishing characteristics in a suspicious email sample.
 
-## Lab Setup
+
+## 🧪 Lab Setup
 
 - 📨 [Download Email Sample (.eml)](https://github.com/0xrajneesh/30-Days-SOC-Challenge-Beginner/blob/main/BRADESCO%20LIVELO.eml)  
-- 💻 Tools Recommended:
+- 💻 Tools Used:
   - [MX Toolbox Email Header Analyzer](https://mxtoolbox.com/EmailHeaders.aspx)
   - [EML Analyzer](https://eml-analyzer.herokuapp.com/#/)
   - IP reputation check (e.g., VirusTotal, AbuseIPDB, Cisco Talos)
@@ -21,7 +22,7 @@ Identify phishing characteristics in a suspicious email sample.
 ## Deliverables
 A report listing phishing indicators found in the sample email.
 
-## Mini Guide
+## 📝 Mini Guide
 
 1. **Obtain a Sample:**  
    Find a phishing email sample (many are available online).
@@ -48,14 +49,22 @@ A report listing phishing indicators found in the sample email.
    List and summarize all phishing indicators you find.
 
 
-## Example Screenshot
+## 📸 Screenshot
 
-![Sample Header Analysis](screenshots/sample-header.png)
+**Header Details**
+![image alt](https://github.com/Rushikesh38-bit/TASK-NO-2-Phishing-Analysis-Investigating-a-Phishing-Email/blob/main/1_header_details.png)
 
-## Author
-Rushikesh38-bit
+**Ip Reputation**
+![image alt](https://github.com/Rushikesh38-bit/TASK-NO-2-Phishing-Analysis-Investigating-a-Phishing-Email/blob/main/2_reputation.png)
 
-## Learning Outcome
+**Suspicious Link**
+![image alt](https://github.com/Rushikesh38-bit/TASK-NO-2-Phishing-Analysis-Investigating-a-Phishing-Email/blob/main/3_suspicious_link.png)
+
+**Email Body Preview**
+![image alt](https://github.com/Rushikesh38-bit/TASK-NO-2-Phishing-Analysis-Investigating-a-Phishing-Email/blob/main/4_email_body_preview.png)
+
+
+## ✅ Learning Outcome
 
 By completing this lab, I was able to:
 - Extract and review email headers for spoofing and IP trace
@@ -63,8 +72,5 @@ By completing this lab, I was able to:
 - Identify spoofed branding and urgency in email body
 - Use online tools to validate IP/domain reputation and catch phishing attempts
 
-
-## References
-- [MXToolbox Email Header Analyzer](https://mxtoolbox.com/EmailHeaders.aspx)
-- [Phishing Indicators Guide](https://www.phishing.org/what-is-phishing)
-- [Original inspiration repository](https://github.com/BecomingCyber/phishing-lab-day22)
+## Author
+Rushikesh38-bit
